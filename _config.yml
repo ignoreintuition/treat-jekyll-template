@@ -1,9 +1,10 @@
 # ----
 # Site
+# logomakr.com/49PorO
 
 title: Cooking with Mommy
-url: "https://#"
-baseurl:
+url: "https://"
+baseurl: /cooking
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
